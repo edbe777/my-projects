@@ -1,1 +1,1 @@
-# Detailed Time series decomposition anf Forecasts with Air Passengers dataset
+# Detailed Time series decomposition and Forecasts with Air Passengers dataset
