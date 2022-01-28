@@ -11,6 +11,6 @@
     
 # Images:
 
-   <img src="images/comments graph.png" width="350" title="prototype 2">
-   <img src="images/likes graph.png" width="350" title="prototype 2.1">
-   <img src="images/views graph.png" width="350" title="prototype 2.1">
+   <img src="images/comments graph.JPG" width="350" title="comments">
+   <img src="images/likes graph.JPG" width="350" title="likes">
+   <img src="images/views graph.JPG" width="350" title="views">
