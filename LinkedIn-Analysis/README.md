@@ -1,6 +1,6 @@
 # This is a simple jupiter notebook to show how many likes, comments, and views a LinkedIn profile has
 
-# steps: 
+# Steps: 
   1. Make sure you have the correct chrome driver for the program to run properly 
     -download chrome driver here: https://chromedriver.chromium.org/downloads 
   
@@ -9,3 +9,7 @@
     -the program will scrape the likes, comments and views for the posts 
     -the program will output graphs of the likes, comments and views as image files and csv files in the same folder
     
+# Images:
+
+    <img src="images/prototype2.0.png" width="350" title="prototype 2">
+    <img src="images/prototype2.1.png" width="350" title="prototype 2.1">
