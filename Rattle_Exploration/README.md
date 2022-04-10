@@ -21,6 +21,8 @@ On the partition box, the default value is 70/15/15. Let's change the random sam
 
 Click execute to run this code, and it should look like the image below.
 
+
+## Data Exploration
 Next, let's explore the data. Click on the explore tab.
 Check the summary box, and click execute. The code should look like the image below.
 
@@ -37,6 +39,7 @@ We can also trashform the data in the transform tab, like Python, but with no co
 Click on the Cluster tab and then select Kmeans to perform a cluster analysis. The code should look like the image below. 
 
 Rattle also has the associate tab which allows us to work with categorical variables. My data only has numerical columns, so I will skip this part.
+
 
 ## Models
 Click on the Model tab and then select the Tree and traditional radio tabs. Make the minumim Split 40 and the min bucket 20 for faster processing time. Then click on execute. The code should look like this:
