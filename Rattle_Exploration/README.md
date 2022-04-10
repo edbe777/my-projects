@@ -39,7 +39,6 @@ Click on the Cluster tab and then select Kmeans to perform a cluster analysis. T
 Rattle also has the associate tab which allows us to work with categorical variables. My data only has numerical columns, so I will skip this part.
 
 ## Models
-
 Click on the Model tab and then select the Tree and traditional radio tabs. Make the minumim Split 40 and the min bucket 20 for faster processing time. Then click on execute. The code should look like this:
 
 Lets go crazy and select the 'all' radio button. Then click on Execute. It will generate all models, and we can click on each radio button to see the results.
@@ -52,6 +51,7 @@ This generates the following Image where we can see that the random forest, ksvm
 If we click on the training radio button and execute the code, we see an very informative error message. There we can see overfitting for the xgb and rf models. This can tell us a lot about the training data. 
 
 
+## Log
 The last tab is the Log which shows us our actions with timestamps. 
 
 
