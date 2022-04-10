@@ -1,0 +1,11 @@
+﻿Date,Status,To,From,map,Port,Speed
+2022-03-20 10:37,ETA Changed,3/24/2022 10:30,3/20/2022 5:45,"51.94967, 3.98981",NL MAASVLAKTE - ROTTERDAM,0 kn 34
+2022-03-20 10:30,Destination Changed,BEANR,NLRTM,"51.94974, 3.99019",NL MAASVLAKTE - ROTTERDAM,0.2 kn 36
+2022-03-20 10:25,Status Changed,Moored,Constrained by her draught,"51.94987, 3.99076",NL MAASVLAKTE - ROTTERDAM,0.5 kn 40
+2022-03-20 10:22,STOP Moving,NL,,"51.94982, 3.99148",NL MAASVLAKTE - ROTTERDAM,0.3 kn 41
+2022-03-20 08:43,PORT ARRIVAL,NL,,"51.96252, 4.07971",NL MAASVLAKTE - ROTTERDAM,4.1 kn 265
+2022-03-20 03:42,Status Changed,Constrained by her draught,Under way using engine,"51.94307, 3.43059",NLRTM,4.5 kn 88
+2022-03-20 02:16,ETA Changed,3/20/2022 5:45,3/20/2022 4:45,"51.90014, 3.20315",NLRTM,7.6 kn 65.6
+2022-03-20 00:29,ETA Changed,3/20/2022 4:45,3/20/2022 3:00,"51.82419, 2.89434",NLRTM,6.2 kn 70.9
+2022-03-19 23:29,Change Sea Area,Dutch part of the North Sea,Belgian part of the North Sea,"51.77846, 2.70759",NLRTM,8.9 kn 70.4
+2022-03-19 20:46,Change Sea Area,Belgian part of the North Sea,French part of the North Sea,"51.50706, 2.27365",NLRTM,8.4 kn 43.7
